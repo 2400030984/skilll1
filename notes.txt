@@ -1,0 +1,5 @@
+Skill 1 - Git Version Control
+Created initial files for Git experiment.
+Updated in feature-update branch.
+Updated in bug-fix branch.
+Merged both branches successfully.
